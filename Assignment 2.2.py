@@ -20,4 +20,5 @@ while attempts < 5:
     attempts += 1
 
 if attempts == 5:
-    print(f"Nice try but you've used all your guesses. I was thinking  {number_to_guess}.")
+    message = "Nice try but you've used all your guesses. I was thinking " + str(number_to_guess) + "."
+    print(message)
