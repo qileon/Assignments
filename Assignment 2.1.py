@@ -16,8 +16,8 @@ def calculate_sum():
 
         if num1 == num2 == num3:
             result = total * 3
-            print(f"The power of the three numbers is {result}")
+            print("The three times their sum of the three numbers is " + str(result))
         else:
-            print(f"The sum of the three numbers is {total}")
+            print("The sum of the three numbers is " + str(total))
 
 calculate_sum()
