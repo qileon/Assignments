@@ -1,3 +1,3 @@
 # ECC102-Assignments
-Assignment for ECC102 
+Assignments for ECC102(Programming and Problem Solving), 
 This is for storing and showing my process during university.
